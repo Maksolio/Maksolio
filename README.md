@@ -8,4 +8,7 @@
 ![MySQL]( https://img.shields.io/badge/MySQL-0eb0e6?style=for-the-badge&logo=MySQL&logocolor=0a0a0a)
 ![GitHUB]( https://img.shields.io/badge/GITHub-0a0a0a?style=for-the-badge&logo=Github&logocolor=0a0a0a)
 ![DEVTOOLS]( https://img.shields.io/badge/DEVTOOLS-0a0a0a?style=for-the-badge&logo=DEVTOOLS&logocolor=0a0a0a)
-Folow me
+
+### Folow me
+![TELEGRAM]( https://img.shields.io/badge/TELEGRAM-0e98e3?style=for-the-badge&logo=TELEGRAM&logoColor=0a0a0a)
+[![INSTAGRAM]( https://img.shields.io/badge/INSTAGRAM-0a0a0a?style=for-the-badge&logo=instagRAM&logoColor=e3790e)](https://www.instagram.com/)
