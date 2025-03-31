@@ -1,6 +1,6 @@
 ![Header](https://github.com/Maksolio/Maksolio/blob/main/assets/header.png)
 
-About me
+## I'm a beginner QA engineer and an engineer in machinebuilding right now.
 
 Languages and tools
 
